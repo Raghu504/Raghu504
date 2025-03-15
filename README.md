@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Raghu504/Raghu504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer dedicated to continuous learning and building efficient solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Experienced in C++, JavaScript, and web development.
+- ⚡ Interested in optimizing algorithms and building scalable applications.
+- 📚 Always exploring new technologies and improving my skills.
+- 🎯 Focused on automation, workflow optimization, and AI-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Programming Languages:** C++, JavaScript, Python
+- **Web Development:** Node.js, Express.js, React (JSX & HTML)
+- **Databases:** NoSQL, MySQL
+- **Tools & Platforms:** Git, Linux, DaVinci Resolve, CapCut
+
+## 📌 Projects
+🔹 Automated Workflow Management System  
+🔹 Blog Web Application (Node.js, Express.js, EJS)  
+🔹 API Data Integration with Express.js & Axios  
+🔹 Optimized C++ Algorithm Implementations
+
+## 📫 Get in Touch
+- LinkedIn: [Your LinkedIn Profile](#)
+- Email: [Your Email](#)
+
+Feel free to check out my repositories and contribute! 🚀
+
